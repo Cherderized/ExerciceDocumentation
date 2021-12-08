@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>clTest</name>
+    </assembly>
+    <members>
+        <member name="M:clTest.Class1.#ctor(System.Int32,System.String,System.String,System.Double)">
+            <summary>
+            Cette fonction est pour construire l'objet.
+            </summary>
+            <param name="id">premier paramètre, doit être différent</param>
+            <param name="nom">deuxième paramètre</param>
+            <param name="info">troisième paramètre</param>
+            <param name="cost">quatrième paramètre</param>
+        </member>
+        <member name="M:clTest.Class1.ToString">
+            <summary>
+            Cette fonction est pour recevoir le nom et les info de l'objet en override la fonction de base .ToString().
+            </summary>
+            <returns>Retourne un string comprenant le nom et l'info séparé par un espace.</returns>
+        </member>
+        <member name="M:clTest.Class1.ChangeCostById(System.Int32,System.Double)">
+            <summary>
+            Cette fonction est pour moddifier le cout de l'objet selon son id.
+            </summary>
+            <param name="id">premier paramètre, permet de choisir quel objet sera moddifier.</param>
+            <param name="cost">deuxième paramètre, permet de moddifier le cout.</param>
+        </member>
+    </members>
+</doc>

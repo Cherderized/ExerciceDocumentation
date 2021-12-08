@@ -1,0 +1,7 @@
+C:\Users\1937883\Desktop\clTest\clTest\bin\Debug\clTest.dll
+C:\Users\1937883\Desktop\clTest\clTest\bin\Debug\clTest.pdb
+C:\Users\1937883\Desktop\clTest\clTest\bin\Debug\README.xml
+C:\Users\1937883\Desktop\clTest\clTest\obj\Debug\clTest.csprojAssemblyReference.cache
+C:\Users\1937883\Desktop\clTest\clTest\obj\Debug\clTest.csproj.CoreCompileInputs.cache
+C:\Users\1937883\Desktop\clTest\clTest\obj\Debug\clTest.dll
+C:\Users\1937883\Desktop\clTest\clTest\obj\Debug\clTest.pdb
